@@ -1,1 +1,7 @@
 这是一个测试的文本文档
+
+我在master里做了修改
+
+我可以在branchtest分支里看到这个修改
+
+我也可以在master里看到:eqbranchtest里做的修改
