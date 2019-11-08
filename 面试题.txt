@@ -31,3 +31,6 @@ ajax.onreadystatechange = function () {
 6、map，数组，对象互相转换
 https://blog.csdn.net/c__dreamer/article/details/82183130#Map%E8%BD%AC%E4%B8%BA%E6%95%B0%E7%BB%84
 
+
+123123213123
+
